@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-open-cv-python-headless
+opencv-python-headless
 pandas
 plotly
 pillow
